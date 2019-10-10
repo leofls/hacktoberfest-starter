@@ -4,3 +4,6 @@
  Name: [Alex Gonzalez](https://github.com/AlexAglon)
 - Bio: Desarrollador web estudiente de ingeniería lenguaje favorito Javascript
 - GitHub: [AlexAglon](https://github.com/AlexAglon)
+Name:[Leandro Ferreira](https://github.com/leofls)
+Bio: Robotic Teacher
+Github: [leofls](https://github.com/leofls)
